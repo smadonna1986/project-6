@@ -8,13 +8,13 @@ These instructions will allow you to get a copy of the project that runs on your
 
 ### Prerequisites
 
-* [git](https://github.com/smadonna/project6.git)
+* [git](https://github.com/smadonna1986/project-6)
 * [npm](https://www.npmjs.com/get-npm)
 
 ### Installing
 
 Instructions to clone and run the project:
-1. In Terminal, clone the git project using `$ git clone https://github.com/smadonna/project6.git`.
+1. In Terminal, clone the git project using `$ git clone https://github.com/smadonna1986/project-6`.
 2. Navigate to the root directory for the project.
 3. Run the command `npm install` to install the necessary dependancies
 3. Run the command `npm start` to start the server. This will automatically open the website in your browser.
